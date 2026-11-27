@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-labelledby="t d">
+<title id="t">Student Data Management</title><desc id="d">Illustrative project artwork • Replace with terminal/application screenshot</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1729"/><stop offset="1" stop-color="#101F35"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#19C5E8" stop-opacity=".28"/><stop offset="1" stop-color="#19C5E8" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="440" rx="28" fill="url(#bg)"/>
+<circle cx="700" cy="170" r="210" fill="url(#glow)"/>
+<g fill="none" stroke="#19C5E8" stroke-opacity=".65" stroke-width="3">
+<path d="M70 330H230V270H330V330H450"/><path d="M610 85H760V145H830"/>
+<path d="M95 110H205V160H300"/><path d="M570 330H700V270H820"/>
+<circle cx="230" cy="330" r="7" fill="#19C5E8"/><circle cx="760" cy="145" r="7" fill="#19C5E8"/>
+<circle cx="300" cy="160" r="7" fill="#19C5E8"/><circle cx="700" cy="270" r="7" fill="#19C5E8"/>
+</g>
+<g transform="translate(390 105)" stroke="#19C5E8" stroke-width="5" fill="none" stroke-linejoin="round">
+<rect x="30" y="30" width="160" height="130" rx="12"/><path d="M55 70H165M55 100H145M55 130H125"/>
+</g>
+<text x="58" y="385" fill="#F1F5F9" font-family="Arial,sans-serif" font-size="34" font-weight="700">Student Data Management</text>
+<text x="58" y="415" fill="#9FB3C8" font-family="Arial,sans-serif" font-size="17">Illustrative project artwork • Replace with terminal/application screenshot</text>
+</svg>

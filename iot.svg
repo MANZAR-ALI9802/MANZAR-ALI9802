@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-labelledby="t d">
+<title id="t">Internet of Things</title><desc id="d">Connected devices • Automation • Telemetry</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1729"/><stop offset="1" stop-color="#101F35"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#00D9FF" stop-opacity=".28"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="440" rx="28" fill="url(#bg)"/>
+<circle cx="700" cy="170" r="210" fill="url(#glow)"/>
+<g fill="none" stroke="#00D9FF" stroke-opacity=".65" stroke-width="3">
+<path d="M70 330H230V270H330V330H450"/><path d="M610 85H760V145H830"/>
+<path d="M95 110H205V160H300"/><path d="M570 330H700V270H820"/>
+<circle cx="230" cy="330" r="7" fill="#00D9FF"/><circle cx="760" cy="145" r="7" fill="#00D9FF"/>
+<circle cx="300" cy="160" r="7" fill="#00D9FF"/><circle cx="700" cy="270" r="7" fill="#00D9FF"/>
+</g>
+<g transform="translate(390 105)" stroke="#00D9FF" stroke-width="5" fill="none" stroke-linejoin="round">
+<circle cx="110" cy="95" r="35"/><circle cx="35" cy="35" r="18"/><circle cx="185" cy="35" r="18"/><circle cx="35" cy="155" r="18"/><circle cx="185" cy="155" r="18"/><path d="M82 70L49 48M138 70L171 48M82 120L49 142M138 120L171 142"/>
+</g>
+<text x="58" y="385" fill="#F1F5F9" font-family="Arial,sans-serif" font-size="34" font-weight="700">Internet of Things</text>
+<text x="58" y="415" fill="#9FB3C8" font-family="Arial,sans-serif" font-size="17">Connected devices • Automation • Telemetry</text>
+</svg>
